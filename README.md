@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FounateeChrisYaba.FounateeChrisYaba)
 
-I'm Founatee Chris Yaba an undergraduate student Developer at starz university the college of science and technology.
+I'm Founatee Chris Yaba  💻 I'm Currently Learning at starz university the college of science and technology.
 
 - 🔭 I’m currently on mentorship progrram
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -26,6 +26,8 @@ I'm Founatee Chris Yaba an undergraduate student Developer at starz university t
 
 
 <br>
-#### Github Stats
+
+### Github Stats
+<br>
 
 ![FounateeChrisYaba github stats](https://github-readme-stats.vercel.app/api?username=FounateeChrisYaba&count_private=true&theme=tokyonight&hide=contribs,prs)
